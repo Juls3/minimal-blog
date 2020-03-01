@@ -15,6 +15,10 @@ module.exports = {
       options: {
         navigation: [
           {
+            title: `{data scientist}`,
+            slug: `/datascientist`,
+          },
+          {
             title: `Blog`,
             slug: `/blog`,
           },
