@@ -6,6 +6,8 @@ module.exports = {
   siteMetadata: {
     siteTitle: `Julien Sauvan`,
     siteTitleAlt: `Julien Sauvan`,
+    siteHeadline: `Julien Sauvan - Data Scientist`,
+    author: `@JulienSauvan`,
   },
   plugins: [
     {
@@ -29,6 +31,10 @@ module.exports = {
           {
             name: `Github`,
             url: `https://github.com/Juls3/`,
+          },
+          {
+            name: `LinkedIn`,
+            url: `https://www.linkedin.com/in/julien-sauvan-b5a40982/`,
           },
         ],
       },
